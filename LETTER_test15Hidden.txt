@@ -1,0 +1,17 @@
+Q3 LETTER TEST
+
+----------------------------------------------------------------------
+
+Epochs = 100000
+Learning rate = 5e-05
+Hidden units = 15
+
+
+Error before training = 7.390912183307319
+
+ Error at Epoch:	100	  is 	7.204063585884866
+ Error at Epoch:	1000	  is 	6.220235014391188
+ Error at Epoch:	10000	  is 	5.408848369950192
+ Error at Epoch:	100000	  is 	4.233244297098916
+
+Error after training = 4.363497993066073

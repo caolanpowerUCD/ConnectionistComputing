@@ -1,0 +1,74 @@
+Q3 LETTER TEST
+
+----------------------------------------------------------------------
+
+Epochs = 100
+Learning rate = 0.5
+Hidden units = 10
+
+
+Error before training = 5.130345124608227
+
+ Error at Epoch:	100	  is 	1914.519563728775
+
+Error after training = 1914.5196293659642
+----------------------------------------------------------------------
+
+Epochs = 100
+Learning rate = 0.05
+Hidden units = 10
+
+
+Error before training = 4.865815694365252
+
+ Error at Epoch:	100	  is 	277.84899158710346
+
+Error after training = 277.84872406047145
+----------------------------------------------------------------------
+
+Epochs = 100
+Learning rate = 0.005
+Hidden units = 10
+
+
+Error before training = 4.910473940709949
+
+ Error at Epoch:	100	  is 	139.9689056498372
+
+Error after training = 139.96851687262907
+----------------------------------------------------------------------
+
+Epochs = 100
+Learning rate = 0.0005
+Hidden units = 10
+
+
+Error before training = 4.755183745258688
+
+ Error at Epoch:	100	  is 	19.861130834979836
+
+Error after training = 19.84169838334761
+----------------------------------------------------------------------
+
+Epochs = 100
+Learning rate = 5e-05
+Hidden units = 10
+
+
+Error before training = 4.510012113014298
+
+ Error at Epoch:	100	  is 	2.649200441950343
+
+Error after training = 2.8333440676731367
+----------------------------------------------------------------------
+
+Epochs = 100
+Learning rate = 5e-06
+Hidden units = 10
+
+
+Error before training = 5.002009508459785
+
+ Error at Epoch:	100	  is 	4.532510105888957
+
+Error after training = 4.530664467128541
